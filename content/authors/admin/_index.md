@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Telmo Menezes
+name: Dr. Telmo Menezes
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Researcher in Computational Social Sci., Complex Systems, AI 
+role: Researcher in Computational Social Science, Complex Systems, AI 
 
 # Organizations/Affiliations
 organizations:
@@ -53,7 +53,7 @@ email: ""
 # - Visitors
 ---
 
-I am an academic researcher in the fields of Computational Social Sciences, Artificial Intelligence and Complex Systems, working at the Marc Bloch Centre in Berlin. I have a PhD in Computer Science with a specialization in Artificial Intelligence and a background of interdisciplinary research.
+I am an academic researcher, currently a member of the [Marc Bloch Centre in Berlin](https://cmb.hu-berlin.de/en/) and of its [Computational Social Science team](https://cmb.huma-num.fr/). I have a PhD in Computer Science with a specialization in Artificial Intelligence / Complex Systems and a background of interdisciplinary research.
 
 I also have industry experience, which includes working in machine learning at one of the major tech companies and developing software for NASA/JPL.
 
