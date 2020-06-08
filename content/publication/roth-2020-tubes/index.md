@@ -21,8 +21,10 @@ This webpage provides a nice summary of the findings:
 https://cmb-css.github.io/bubbletube/
 
 
-Some press releases:
+Mentions in the press:
 
 http://www.cnrs.fr/en/how-we-end-confined-youtube
 
 https://www.eurekalert.org/pub_releases/2020-04/c-hwe042220.php
+
+https://in.news.yahoo.com/heres-people-end-being-confined-youtube-095117740.html
