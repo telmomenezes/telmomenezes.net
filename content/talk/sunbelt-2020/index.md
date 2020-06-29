@@ -16,7 +16,7 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-07-20T20:00:00+00:00
+date: 2020-07-16T20:18:50+00:00
 # date_end: 2019-11-24T19:56:00+01:00
 all_day: false
 
