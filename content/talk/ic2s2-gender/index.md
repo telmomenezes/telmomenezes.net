@@ -21,7 +21,7 @@ date: 2020-07-20T19:30:00+00:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate:
+publishDate: 2020-06-28T19:30:00+00:00
 
 authors: ["Antoine Mazières", "Telmo Menezes", "Camille Roth"]
 tags: []
